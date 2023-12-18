@@ -5,7 +5,7 @@
 ![Imagen decorativa de tu perfil](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DECORATIVA-DEL-PERFIL.jpg?raw=true)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="left">Hola 👋, soy Candela</h1>
+<h1 align="left">Hola! soy Candela</h1>
 <h3 align="left">Diseño UX/UI y Desarrollo Web </h3>
 
 <h3 align="left">Connect with me:</h3>
